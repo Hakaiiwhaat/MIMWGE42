@@ -7,14 +7,6 @@ body, html {
 
 body {
     background-color: #EADBC8;
-<<<<<<< HEAD
-=======
-    /* background-image: url(images/calc.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed; */
->>>>>>> 1fb823a7dc5f136f40ed7e727bfec8e666a81440
 }
 
 
@@ -38,15 +30,6 @@ body {
     box-shadow: 0px 0px 10px #BA704F
 }
 
-<<<<<<< HEAD
-=======
-img {
-    width: 50%;
-    height: auto;
-    display: block;
-}
-
->>>>>>> 1fb823a7dc5f136f40ed7e727bfec8e666a81440
 .links {
     display: flex;
     margin-left: auto;
@@ -76,7 +59,6 @@ img {
 }
 
 .content {
-<<<<<<< HEAD
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -86,12 +68,6 @@ img {
 
 .content .head p {
     margin-top: 20px;
-=======
-    align-items: center;
-}
-
-.content .head p {
->>>>>>> 1fb823a7dc5f136f40ed7e727bfec8e666a81440
     text-align: center;
     font-size: 60px;
     color: #BA704F;
@@ -102,7 +78,6 @@ img {
     text-align: center;
     font-size: 20px;
     color: #BA704F;
-<<<<<<< HEAD
     text-shadow: 5px 5px 5px #ba704f;
 }
 
@@ -155,32 +130,6 @@ video {
 .container .parent .video-gallery .item {
     flex: 0 0 auto; /* Prevent items from growing or shrinking */
     margin-right: 10px; /* Add space between video items */
-=======
-    text-shadow: 5px 5px 5px #BA704F;
-}
-
-.content .texts .main{
-    display: flex;
-    align-items: center;
-}
-
-.content .texts .main p{
-    color: #BA704F;
-    text-shadow: 5px 5px 5px #BA704F;
-    font-size: 30px;
-    margin-top: -200px;
-    margin-right: 30px;
-    margin-left: 200px;
-    /* border: 5px solid #8E493A;
-    background-color: #8E493A;
-    border-style: inset;
-    padding: 10px; */
-}
-.content .texts .main img {
-    max-width: 40%;
-    max-height: 50%;
-    margin-right: 20px;
->>>>>>> 1fb823a7dc5f136f40ed7e727bfec8e666a81440
 }
 
 .footer {
