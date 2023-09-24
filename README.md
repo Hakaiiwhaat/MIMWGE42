@@ -13,3 +13,5 @@ sept 21, 2023. videos has been added.
 sept 22, 2023. Edited and added a lot of things.
 
 sept. 23, 2023. Incomplete hobbies page.
+
+sept. 24, 2023. Hobbies page is done.

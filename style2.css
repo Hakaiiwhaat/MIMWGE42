@@ -1,66 +1,94 @@
-body, html {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-}
-
-
-body {
-    background-color: #EADBC8;
-}
-
-
-.navbar {
-    background-color: #EADBC8;
-    display: flex;
-    margin-left: auto;
-    padding: 20px 0px 20px 100px;
-    align-items: center;
-    justify-content: space-between;
-    flex-direction: row;
-    /* box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5) */
-}
-
-.header-logo img{
-    width: 100px;
-    height: 100px;
-    margin-right: auto;
-    border-radius: 50%;
-    overflow: hidden;
-    box-shadow: 0px 0px 10px #BA704F
-}
-
-.links {
-    display: flex;
-    margin-left: auto;
-    padding: 0px 100px 15px 0px;
-}
-
-.links a {
-    text-shadow: 5px 5px 5px #BA704F;
-    text-decoration: none;
+.navbar .title p {
+    font-family: Oswald;
+    font-size: 30px;
+    margin-left: 40px;
     color: #BA704F;
-    font-size: 18px;
-    padding: 10px;
-    margin-right: 20px;
-    margin-left: 20px;
-    font-family: 'Roboto', arial;
-    font-weight: 300;
-
-    &:hover {
-        background-color: #BA704F;
-        color: white;
-        transition: 0.3s;
-        border-radius: 5px;
-        box-shadow: 0 8px 16px 0 rgb(218, 192, 163), 0 6px 20px 0 rgb(218, 192, 163);
-        cursor: pointer;
-
-    }
 }
 
-.content {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    padding: 20px;
+div .par img{
+    box-shadow: 5px 10px 8px #BA704F;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    max-width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+div .programming {
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+div .programming img {
+    box-shadow: 10px 8px 8px #BA704F;
+    /* border: 1px solid #BA704F;
+    background-color: #BA704F; */
+    border-radius: 30px;
+    background-size: cover;
+    width: 60%;
+    height: 60%;
+    margin-left: 10px;
+}
+
+div .programming .prog {
+    height: 400px;
+}
+
+div .programming .prog2 {
+    height: 400px;
+}
+
+div .programming .prog3 {
+    height: 400px;
+    width: 800px;
+}
+
+div .par2 img{
+    margin-top: 30px;
+    margin-bottom: -50px;
+    border-radius: 8px;
+    max-width: 50%;
+    max-height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+div .reading {
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+div .reading img {
+    box-shadow: 10px 8px 8px #BA704F;
+    /* border: 1px solid #BA704F;
+    background-color: #BA704F; */
+    border-radius: 30px;
+    background-size: cover;
+    width: 60%;
+    height: 60%;
+    margin-left: 10px;
+}
+
+div .reading .read{
+    height: 400px;
+}
+
+div .reading .read2 {
+    height: 400px;
+}
+div .reading .read3 {
+    height: 400px;
+}
+
+div .reading .read4{
+    height: 400px;
 }
