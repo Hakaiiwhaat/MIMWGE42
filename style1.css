@@ -31,7 +31,6 @@
 
 .child {
     flex: 1;
-    overflow-x: auto;
 }
 
 .parent img {
@@ -54,14 +53,14 @@ video {
 .container .parent .video-gallery {
     display: flex;
     flex-direction: column;
-    overflow-x: auto; /* Enable horizontal scrolling */
-    white-space: nowrap; /* Prevent items from wrapping to the next line */
+    overflow-x: auto;
+    white-space: nowrap;
     padding-bottom: -100px;
 }
 
 .container .parent .video-gallery .item {
-    flex: 0 0 auto; /* Prevent items from growing or shrinking */
-    margin-right: 10px; /* Add space between video items */
+    flex: 0 0 auto;
+    margin-right: 10px;
 }
 
 .footer {

@@ -1,59 +1,15 @@
-body, html {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-}
-
-
-body {
-    background-color: #EADBC8;
-}
-
-
-.navbar {
-    background-color: #EADBC8;
-    display: flex;
-    margin-left: auto;
-    padding: 20px 0px 20px 100px;
-    align-items: center;
-    justify-content: space-between;
-    flex-direction: row;
-    /* box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5) */
-}
-
-.header-logo img{
-    width: 100px;
-    height: 100px;
-    margin-right: auto;
-    border-radius: 50%;
-    overflow: hidden;
-    box-shadow: 0px 0px 10px #BA704F
-}
-
-.links {
-    display: flex;
-    margin-left: auto;
-    padding: 0px 100px 15px 0px;
-}
-
-.links a {
-    text-shadow: 5px 5px 5px #BA704F;
-    text-decoration: none;
+.navbar .title p {
+    font-family: Oswald;
+    font-size: 30px;
+    margin-left: 40px;
     color: #BA704F;
-    font-size: 18px;
-    padding: 10px;
-    margin-right: 20px;
-    margin-left: 20px;
-    font-family: 'Roboto', arial;
-    font-weight: 300;
+}
 
-    &:hover {
-        background-color: #BA704F;
-        color: white;
-        transition: 0.3s;
-        border-radius: 5px;
-        box-shadow: 0 8px 16px 0 rgb(218, 192, 163), 0 6px 20px 0 rgb(218, 192, 163);
-        cursor: pointer;
+div .parent {
+    display: flex;
+}
 
-    }
+div .child {
+    flex: 1;
+    overflow-x: auto;
 }

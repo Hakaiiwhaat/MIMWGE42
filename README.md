@@ -4,7 +4,7 @@ This is a project for Mathematics in Modern World
 
 sept 11, 2023. first commit
 
-sept 17, 2023 second commit, did some new stylings and color theme. 
+sept 17, 2023 second commit, did some new stylings and color theme.
 
 sept 20, 2023. 12:31 pm. Did some little modifications.
 
