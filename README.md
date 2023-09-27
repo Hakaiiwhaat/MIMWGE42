@@ -16,4 +16,4 @@ sept. 23, 2023. Incomplete hobbies page.
 
 sept. 24, 2023. Hobbies page is done.
 
-sept. 27, 2023. Likes page done. 
+sept. 27, 2023. Likes and talents page done. 
