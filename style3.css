@@ -7,9 +7,53 @@
 
 div .parent {
     display: flex;
+    overflow-x: hidden;
 }
 
 div .child {
     flex: 1;
-    overflow-x: auto;
+}
+
+.parent .foods img{
+    height: 80%;
+    width: 50%;
+    padding: 0;
+    border-radius: 15px;
+    box-shadow: 0px 0px 30px rgb(186, 112, 79);
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.parent .foods .curry {
+    width: 700px;
+    height: 600px;
+}
+
+.parent .foods .adobo {
+    height: 600px;
+    margin-top: -30px;
+}
+
+.parent .description p{
+    font-size: 30px;
+    font-family: Oswald;
+    color: #BA704F;
+    text-shadow: 5px 5px 5px #BA704F;
+    margin-top: 190px;
+}
+
+.parent .description .adobodesc {
+    margin-top: 530px;
+}
+
+.container .siya p {
+    color: #BA704F;
+    text-shadow: 5px 5px 5px #BA704F;
+    text-align: center;
+    font-family: Oswald;
+    font-size: 50px;
+}
+
+.container .siyadesc img{
+    box-shadow: 0px 0px 30px rgb(186, 112, 79);
 }
