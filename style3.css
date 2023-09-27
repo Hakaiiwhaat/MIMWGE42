@@ -1,10 +1,3 @@
-.navbar .title p {
-    font-family: Oswald;
-    font-size: 30px;
-    margin-left: 40px;
-    color: #BA704F;
-}
-
 div .parent {
     display: flex;
     overflow-x: hidden;
@@ -54,6 +47,16 @@ div .child {
     font-size: 50px;
 }
 
-.container .siyadesc img{
-    box-shadow: 0px 0px 30px rgb(186, 112, 79);
+.container .siyadesc{
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    
+}
+
+.siyadesc img {
+    max-width: 50%;
+    height: auto;
+    margin-bottom: 70px;
+    box-shadow: 0px 0px 50px rgb(186, 112, 79);
 }

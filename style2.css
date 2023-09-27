@@ -1,12 +1,5 @@
-.navbar .title p {
-    font-family: Oswald;
-    font-size: 30px;
-    margin-left: 40px;
-    color: #BA704F;
-}
-
 div .par img{
-    box-shadow: 5px 10px 8px #BA704F;
+    box-shadow: 10px 8px 8px #BA704F;
     margin-top: 30px;
     margin-bottom: 30px;
     border-radius: 8px;
