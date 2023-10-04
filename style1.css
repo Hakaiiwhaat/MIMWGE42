@@ -26,12 +26,12 @@
 }
 
 .parent .child .content {
-    overflow-x: hidden;
+    overflow-x: visible;
 }
 
 .parent .louie img {
     width: auto;
-    height: 580px;
+    height: 600px;
     display: block;
     margin-top: -90px;
     margin-left: 80px;
