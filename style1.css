@@ -57,3 +57,20 @@
     text-align: center;
 }
 
+/* Media Query for Small Screens (Mobile Devices) */
+@media (max-width: 767px) {
+    .child {
+        flex-basis: 100%; /* Full width for child elements on small screens */
+    }
+    .content .head p,
+    .content .small p {
+        margin-left: 0; /* Center-align text on small screens */
+    }
+    .parent .louie img {
+        margin-left: 0; /* Center-align image on small screens */
+    }
+    .container .parent .child {
+        margin-right: 0; /* Remove right margin on small screens */
+        margin-top: 0; /* Remove top margin on small screens */
+    }
+}
