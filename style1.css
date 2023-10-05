@@ -33,7 +33,7 @@
 }
 
 .parent .child .content {
-    overflow-x: visible;
+    overflow-x: hidden;
 }
 
 .parent .louie img {
