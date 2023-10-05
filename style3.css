@@ -62,6 +62,7 @@ div .child {
 }
 
 .siyadesc img {
+    border-radius: 15px;
     max-width: 50%;
     height: auto;
     margin-bottom: 70px;
