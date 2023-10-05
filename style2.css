@@ -1,3 +1,10 @@
+.links .nav.active{
+    background-color: #ad613e;
+    border: 1px solid #ad613e;
+    border-radius: 3px;
+    color: white;
+}
+
 div .par img{
     box-shadow: 10px 8px 8px #BA704F;
     margin-top: 30px;
@@ -19,8 +26,7 @@ div .programming {
 
 div .programming img {
     box-shadow: 10px 8px 8px #BA704F;
-    /* border: 1px solid #BA704F;
-    background-color: #BA704F; */
+    margin-bottom: 20px;
     border-radius: 30px;
     background-size: cover;
     width: 60%;
@@ -61,6 +67,7 @@ div .reading {
 }
 
 div .reading img {
+    margin-bottom: 20px;
     box-shadow: 10px 8px 8px #BA704F;
     border-radius: 30px;
     background-size: cover;

@@ -1,3 +1,10 @@
+.links .nav.active{
+    background-color: #ad613e;
+    border: 1px solid #ad613e;
+    border-radius: 3px;
+    color: white;
+}
+
 div .parent {
     display: flex;
     overflow-x: hidden;
@@ -13,12 +20,12 @@ div .child {
     padding: 0;
     border-radius: 15px;
     box-shadow: 0px 0px 30px rgb(186, 112, 79);
-    margin-top: 30px;
-    margin-left: 60px;
+    margin-top: 70px;
+    margin-left: 100px;
 }
 
 .parent .foods .curry {
-    width: 700px;
+    width: 800px;
     height: 600px;
 }
 
@@ -32,7 +39,7 @@ div .child {
     font-family: Oswald;
     color: #BA704F;
     text-shadow: 5px 5px 5px #BA704F;
-    margin-top: 190px;
+    margin-top: 260px;
 }
 
 .parent .description .adobodesc {

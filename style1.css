@@ -6,9 +6,16 @@
     flex: 1;
 }
 
+.links .nav.active{
+    background-color: #ad613e;
+    border: 1px solid #ad613e;
+    border-radius: 3px;
+    color: white;
+}
+
 .content .head p {
     font-family: Oswald;
-    margin-top: 75px;
+    margin-top: 110px;
     margin-left: 80px;
     text-align: center;
     font-size: 40px;
@@ -31,7 +38,7 @@
 
 .parent .louie img {
     width: auto;
-    height: 600px;
+    height: 650px;
     display: block;
     margin-top: -90px;
     margin-left: 80px;
