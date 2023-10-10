@@ -41,8 +41,6 @@ iframe {
     margin-left: 50px;
     margin-bottom: 20px;
     border-radius: 15px;
-    width: 400px;
-    height: 80%;
     box-shadow:  0px 0px 40px rgb(186, 112, 79)
 }
 
@@ -54,12 +52,14 @@ iframe {
     padding: 10px;
     margin-left: 30px;
     margin-right: 30px;
+    height: 90vh;
+    width: auto;
 }
 
 .container .drawing .second{
-    margin-top: 150px;
+    width: 100vh;
 }
 
 .container .drawing .ana {
-    height: 74vh;
+    /* height: 57vh; */
 }

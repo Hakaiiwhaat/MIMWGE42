@@ -29,22 +29,22 @@ div .programming img {
     margin-bottom: 20px;
     border-radius: 30px;
     background-size: cover;
-    width: 60%;
-    height: 60%;
+    width: 90%;
+    height: 60vh;
     margin-left: 20px;
 }
 
 div .programming .prog {
-    height: 400px;
+    /* height: 400px; */
 }
 
 div .programming .prog2 {
-    height: 400px;
+    /* height: 400px; */
 }
 
 div .programming .prog3 {
-    height: 400px;
-    width: 800px;
+    /* height: 400px;
+    width: 800px; */
 }
 
 div .par2 img{
@@ -71,22 +71,22 @@ div .reading img {
     box-shadow: 10px 8px 8px #BA704F;
     border-radius: 30px;
     background-size: cover;
-    width: 60%;
-    height: 60%;
+    width: 70%;
+    height: 50vh;
     margin-left: 20px;
 }
 
 div .reading .read{
-    height: 400px;
+    /* height: 400px; */
 }
 
 div .reading .read2 {
-    height: 400px;
+    /* height: 400px; */
 }
 div .reading .read3 {
-    height: 400px;
+    /* height: 400px; */
 }
 
 div .reading .read4{
-    height: 400px;
+    /* height: 400px; */
 }
