@@ -15,7 +15,7 @@
 
 .content .head p {
     font-family: Oswald;
-    margin-top: 20vh;
+    margin-top: 10vh;
     margin-left: 80px;
     text-align: center;
     font-size: 60px;
@@ -57,7 +57,6 @@
     font-family: Oswald;
     position: fixed;
     bottom: 0;
-    height: 6vh;
     width: 100%;
     background-color: #C08261;
     color: white;
