@@ -7,7 +7,7 @@
 
 div .parent {
     display: flex;
-    overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 div .child {
